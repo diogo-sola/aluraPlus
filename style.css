@@ -199,6 +199,7 @@ body {
 
     .rodape__lista {
     flex-direction: column;
+    margin-bottom: 5rem;
    }
 
    .secundario {
@@ -209,11 +210,11 @@ body {
    }
 
    .secundario__telas {
-    margin-top: 0rem;
+    margin-top: 3rem;
    }
 
    .secundario__notebook {
-    margin-top: 5rem;
+    margin-top: 6rem;
    }
 
    .secundario__imagem {
@@ -226,6 +227,7 @@ body {
 
    .dispositivos__titulo {
     font-size: 100%;
+    margin-top: 6rem;
    }
 
    .dispositivos__lista {

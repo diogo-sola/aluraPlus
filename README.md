@@ -4,4 +4,4 @@ Repositório baseado no curso HTML e CSS da alura
 
 Figma: https://www.figma.com/file/5RkdbpaEcxGrTUiHUvAhR4/Alura-Plus---Layout-(Copy)?node-id=0%3A1
 
-Agora irei trabalhar na parte de responsividade do projeto!
+Agora irei trabalhar na parte de responsividade do projeto! 
